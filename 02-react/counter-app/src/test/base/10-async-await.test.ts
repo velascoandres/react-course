@@ -1,4 +1,3 @@
-import '@testing-library/jest-dom';
 import { getImagen } from '../../base/11-async-await';
 
 
@@ -13,4 +12,7 @@ describe('Pruebas con async await', () => {
     });
 
 });
+
+
+
 

@@ -1,12 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import CounterApp from './CounterApp';
 import reportWebVitals from './reportWebVitals';
+import { PrimeraAPP } from './PrimeraApp';
+
+// ReactDOM.render(
+//  <React.StrictMode>
+//    <CounterApp value={10} />
+//  </React.StrictMode>,
+//  document.getElementById('root')
+//);
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <CounterApp value={10} />
+    <PrimeraAPP saludo="Hola soy goku" subtitulo="mensaje..." />
   </React.StrictMode>,
   document.getElementById('root')
 );

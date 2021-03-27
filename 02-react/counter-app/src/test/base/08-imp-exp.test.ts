@@ -1,4 +1,3 @@
-import '@testing-library/jest-dom';
 import { getHeroeById, getHeroesByOwner } from '../../base/08-imp-exp';
 import { heroes } from '../../data/heroes';
 

@@ -1,4 +1,3 @@
-import '@testing-library/jest-dom';
 import { getHeroeByIdAsync } from '../../base/09-promesas';
 
 

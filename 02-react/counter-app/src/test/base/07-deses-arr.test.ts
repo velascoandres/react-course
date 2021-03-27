@@ -1,4 +1,3 @@
-import '@testing-library/jest-dom';
 import { retornaArreglo } from '../../base/07-deses-arr';
 
 
