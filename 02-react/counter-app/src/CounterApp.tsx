@@ -1,7 +1,7 @@
 import React, { MouseEventHandler, useState } from 'react';
 
 export interface ICounterAppProps {
-	value: number;
+	value?: number;
 }
 
 export type MouseEHandlerFact = (...args: any) => MouseEventHandler;
