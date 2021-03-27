@@ -8,7 +8,7 @@ const PrimeraAPP = ({ saludo, subtitulo }: IPrimeraApp) => {
 
     return (
         <>
-            <h1>{saludo}</h1>
+            <h1>{saludo}!!!</h1>
             <p>{subtitulo}</p>
         </>
     );
