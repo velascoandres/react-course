@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import { PrimeraAPP } from './PrimeraApp';
+import PrimeraAPP  from './PrimeraApp';
 
 // ReactDOM.render(
 //  <React.StrictMode>
